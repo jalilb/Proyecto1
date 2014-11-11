@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1415717175 source:/home/jalil/Proyectos/Pryecto1/main.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<stdlib.h>
+
